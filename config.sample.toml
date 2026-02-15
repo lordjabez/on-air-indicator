@@ -1,0 +1,12 @@
+[[devices]]
+type = "tuya"
+name = "My Smart Plug"
+id = "your-device-id"
+ip = "192.168.1.100"
+key = "your-local-key"
+version = 3.3
+
+[[devices]]
+type = "kasa"
+name = "My Light Strip"
+ip = "192.168.1.101"
